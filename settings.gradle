@@ -1,0 +1,1 @@
+include ':app', ':sas-msspa-library-android'

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msspatest.iml" filepath="$PROJECT_DIR$/msspatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sas-msspa-library-android/sas-msspa-library-android.iml" filepath="$PROJECT_DIR$/sas-msspa-library-android/sas-msspa-library-android.iml" />
+    </modules>
+  </component>
+</project>
